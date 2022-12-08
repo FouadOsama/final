@@ -1,0 +1,21 @@
+.show-text {
+  white-space: nowrap;
+  width: 80%;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.game {
+  background-color: #32383e;
+}
+
+span.type-game {
+  background-color: gray;
+  border: 1px solid transparent;
+  font-size: 10px;
+}
+
+.button-plus {
+font-size: 10px;
+  background-color: gray;
+}

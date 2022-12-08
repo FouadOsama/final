@@ -1,0 +1,26 @@
+.header {
+  background-image: url(../../Images/paladins.b44d33d6e7ee1ba8.png);
+  height: 80vh;
+  background-position: center center;
+  background-size: cover;
+  background-color: black;
+}
+
+.container {
+  background-color: transparent;
+}
+
+.text {
+  background-color: transparent;
+}
+
+.one-game {
+  background-color: #32383e;
+  padding: 0;
+}
+
+
+
+button.btn1 {
+  background-color: transparent;
+}
